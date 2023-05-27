@@ -90,6 +90,7 @@
     .container1 .box-container .box img{
         height: 90px;
         width: 250px;
+        align-items: center;
     }
 }
 :root{
