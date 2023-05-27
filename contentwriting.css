@@ -156,5 +156,19 @@
       text-shadow: 0 0 10px #00ccff;
   
   }
+ @media (max-width:768px){
+    #login_button{
+        position: fixed;
+        left: 25%;
+        top: 65%;
+        width: 190px;
+        height: 40px;
+        transition: 1s;
+        margin-top: 70px;
+        align-content: center;
+        display: block;
+    }  
+
+  }
   
   
