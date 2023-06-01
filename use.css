@@ -152,6 +152,10 @@ h1, h2, h3, h4, h5, h6{
     line-height: 1.7;
     font-weight: bold;
     align-items: center;
+    font-family: serif;
+}
+.text1{
+    font-family: serif;
 }
 .padding-y{
     padding: 6rem 0;
